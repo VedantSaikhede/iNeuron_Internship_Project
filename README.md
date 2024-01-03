@@ -10,11 +10,14 @@
 - [Wireframe Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Wireframe_Document.pdf)
 - [High Level Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/High_Level_Design.pdf)
 - [Low Level Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Low_Level_Design.pdf)
-- [Project Report](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Vedant_Internship_Report.pdf)
+- [Project Report](https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Documentation/Projet_Report.pdf)
+- [College_Internship_Report](https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Documentation/Vedant_Internship_Report.pdf)
 - [Experience Letter](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Letter/iNeuron_internship_Experience_Letter.pdf)
 - [Dataset](https://github.com/VedantSaikhede/Internship_Project/blob/main/Code/Dataset/heart_disease_dataset.csv)
 ## Code
 [iNeuron Internship Vedant Saikhede.ipynb](https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Code/iNeuron%20Internship%20Vedant%20Saikhede.ipynb)
+
+Platform : JupyterLab
 ```python
 #Importing Libraries
 import numpy as np
@@ -45,6 +48,25 @@ plt.pie(hd, labels=['Absence','Presence'], autopct='%0.0f%%')
 plt.title('Heart Disease Population %', fontsize=20)
 plt.show()
 ```
+## Conclusion of Anaysis 
+`45.87%` of People suffer from heart disease.
+
+`Elderly Aged Men` are more `(50 to 60 Years)` and `Females are more in 55 to 65 Years` Category
+
+`Males` are more prone to heart disease.
+
+`Elderly Aged People` are more prone to heart disease.
+
+`People having asymptomatic chest pain` have a higher chance of heart disease.
+
+`High cholesterol levels` in people having heart disease.
+
+`Blood Pressure increases` between the age of 50 to 60 and somehow continues till 70.
+
+`Cholesterol and maximum heart rate` Increased in the `age group of 50-60.`
+
+`ST depression` mostly increases between the `age group of 30-40`.
+
 
 ## Screenshots
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(661).png)
