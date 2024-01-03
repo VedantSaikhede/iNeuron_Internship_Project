@@ -5,8 +5,15 @@
 - Utilized Python for data cleaning and transformation, enabling faster and more accurate analysis.
 - Generated detailed report on project findings, providing key insights to management.
 
-Dataset:
-[Amazon-Bestseller-Dataset.csv](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Amazon-Bestseller-Dataset.csv)
+Dataset :
+[heart_disease_dataset.csv](https://github.com/VedantSaikhede/Internship_Project/blob/main/Code/Dataset/heart_disease_dataset.csv)
+## Documentation
+- [Architecture Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Architecture_Design.pdf)
+- [Wireframe Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Wireframe_Document.pdf)
+- [High Level Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/High_Level_Design.pdf)
+- [Low Level Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Low_Level_Design.pdf)
+- [Project Report](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Vedant_Internship_Report.pdf)
+- [Experience Letter](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Letter/iNeuron_internship_Experience_Letter.pdf)
 
 ## Screenshots
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(661).png)
