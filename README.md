@@ -4,6 +4,8 @@
 - Developed and implemented a business intelligence and machine learning model of a heart disease prediction project, resulting in improved accuracy and scalability of the system.
 - Utilized Python for data cleaning and transformation, enabling faster and more accurate analysis.
 - Generated detailed report on project findings, providing key insights to management.
+  
+![Untitled design](https://github.com/VedantSaikhede/iNeuron_Internship_Project/assets/112426891/1e897866-e7e2-4ee1-a529-95c2d10a265f)
 ## Methodologies 
 - **Data Extraction :**
   The dataset used for analysis is the heart disease dataset provided by the `UCI Repository`. It contains 76 attributes out of which only 14 are used. We will be using the `Cleveland dataset`.
@@ -18,6 +20,8 @@ The exported `.csv dataset file` – `‘preprocessed_heart_disease_dataset.csv�
 - **Data Analysis :**
 Once the data has been loaded into the Tableau Desktop software, we `perform the analysis` for the various medical parameters provided in the dataset and study the relationship between them. Based on these patterns, we try to draw approximate inferences about the data provided `based on visualizations` created.
 
+
+
 ## Documentation
 - [Architecture Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Architecture_Design.pdf)
 - [Wireframe Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Wireframe_Document.pdf)
@@ -30,7 +34,7 @@ Once the data has been loaded into the Tableau Desktop software, we `perform the
 ## Code
 [iNeuron Internship Vedant Saikhede.ipynb](https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Code/iNeuron%20Internship%20Vedant%20Saikhede.ipynb)
 
-Platform : JupyterLab
+Platform : Jupyter Notebook
 ```python
 #Importing Libraries
 import numpy as np
