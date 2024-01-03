@@ -4,6 +4,19 @@
 - Developed and implemented a business intelligence and machine learning model of a heart disease prediction project, resulting in improved accuracy and scalability of the system.
 - Utilized Python for data cleaning and transformation, enabling faster and more accurate analysis.
 - Generated detailed report on project findings, providing key insights to management.
+## Methodologies 
+- **Data Extraction :**
+  The dataset used for analysis is the heart disease dataset provided by the `UCI Repository`. It contains 76 attributes out of which only 14 are used. We will be using the `Cleveland dataset`.
+- **Data Preprocessing :**
+After Exploratory Data Analysis carried out on the dataset, we have certain observations with the dataset. Here are a few columns which contain categorical values but have been incorrectly labeled as numeric.As a part of data preprocessing, we will convert them to categorical values.
+- **Data Exporting :**
+Once the data has been cleaned in the data preprocessing stage, we will export the cleaned dataset into a new file with `.csv format.`
+
+- **Dataset Loading and Modification :**
+The exported `.csv dataset file` – `‘preprocessed_heart_disease_dataset.csv’` will be imported into `Tableau` Public Desktop. Since this a .csv file, we will choose the `‘Microsoft Excel’` file option when prompted to import dataset into `Tableau.`
+
+- **Data Analysis :**
+Once the data has been loaded into the Tableau Desktop software, we `perform the analysis` for the various medical parameters provided in the dataset and study the relationship between them. Based on these patterns, we try to draw approximate inferences about the data provided `based on visualizations` created.
 
 ## Documentation
 - [Architecture Design](https://github.com/VedantSaikhede/Internship_Project/blob/main/Documentation/Architecture_Design.pdf)
