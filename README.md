@@ -87,18 +87,33 @@ plt.show()
 
 ## Screenshots
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(661).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(662).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(663).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(664).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(665).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(666).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(667).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(668).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(669).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(670).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(671).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(672).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(673).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(674).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(675).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Internship_Project/blob/main/Screenshot/Screenshot%20(676).png)
